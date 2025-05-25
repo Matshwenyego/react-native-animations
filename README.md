@@ -27,6 +27,21 @@ This project serves as a learning playground and visual reference for developers
 
 ---
 
+## 📸 Screenshots
+Coming soon...
+
+---
+
+## 🧠 Inspiration
+This project is inspired by the need for quick experimentation with modern animation patterns in React Native and aims to be a go-to reference for motion design.
+
+---
+
+## 🙌 Contributing
+Feel free to fork the repo and submit a PR with new animation examples or improvements!
+
+---
+
 ## 📦 Installation
 
 1. Clone the repository:
@@ -37,35 +52,14 @@ cd animations
 
 2. Install dependencies:
 
-```bash
 npm install
 # or
-```bash
 yarn install
 
 3. Run the app:
 
-```bash
 npm start
 # or
-```bash
 yarn start
 
 ---
-
-## 📸 Screenshots
-Coming soon...
-
-
----
-
-
-## 🧠 Inspiration
-This project is inspired by the need for quick experimentation with modern animation patterns in React Native and aims to be a go-to reference for motion design.
-
-
----
-
-
-## 🙌 Contributing
-Feel free to fork the repo and submit a PR with new animation examples or improvements!
