@@ -28,7 +28,9 @@ This project serves as a learning playground and visual reference for developers
 ---
 
 ## 📸 Screenshots
-Coming soon...
+![Simulator Screenshot - iPhone SE (3rd generation) - 2025-05-25 at 22 26 41](https://github.com/user-attachments/assets/bc11f2b7-15ec-4b0d-b8da-cb849cccaea3)
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2025-05-25 at 22 27 06](https://github.com/user-attachments/assets/8e037595-07e6-4b69-a0c5-b327dcb37a31)
 
 ---
 
