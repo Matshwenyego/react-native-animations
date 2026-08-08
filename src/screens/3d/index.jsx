@@ -25,7 +25,7 @@ const ThreeD =  ({ }) => {
                 image: faker.image.url(),
                 title: faker.commerce.productName(),
                 subtitle: faker.company.buzzPhrase(),
-                price: faker.finance.amount(80, 200, 0),
+                price: faker.finance.amount({ min: 80, max: 200, dec: 0 }),
             };
         });
         if (randomize) {
